@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fbc6181e-5343-494f-8e3d-f6f8b4cbad64" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="1c5ffa85-ce7c-45f2-b745-96420ee97764" />
+  </component>
+  <component name="ProjectId" id="1WJZhsx2BUkiqZkbMlUQykf4x8t" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fbc6181e-5343-494f-8e3d-f6f8b4cbad64" name="Default Changelist" comment="" />
+      <created>1578869781218</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578869781218</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2103" y="284" key="#com.intellij.ide.util.MemberChooser" timestamp="1578946343806">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state x="2103" y="284" key="#com.intellij.ide.util.MemberChooser/1440.23.1920.1057/0.23.1440.840@1440.23.1920.1057" timestamp="1578946343806" />
+    <state x="2288" y="421" key="Github.ShareDialog" timestamp="1578947794501">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state x="2288" y="421" key="Github.ShareDialog/1440.23.1920.1057/0.23.1440.840@1440.23.1920.1057" timestamp="1578947794501" />
+    <state x="1930" y="155" key="SettingsEditor" timestamp="1578947773245">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state x="1930" y="155" key="SettingsEditor/1440.23.1920.1057/0.23.1440.840@1440.23.1920.1057" timestamp="1578947773245" />
+    <state x="376" y="277" key="com.intellij.ide.util.TipDialog" timestamp="1578957202666">
+      <screen x="0" y="23" width="1440" height="840" />
+    </state>
+    <state x="376" y="277" key="com.intellij.ide.util.TipDialog/0.23.1440.840@0.23.1440.840" timestamp="1578957202666" />
+    <state x="376" y="277" key="com.intellij.ide.util.TipDialog/1440.23.1920.1057/0.23.1440.840@0.23.1440.840" timestamp="1578869788485" />
+    <state x="1941" y="343" key="com.intellij.ide.util.TipDialog/1440.23.1920.1057/0.23.1440.840@1440.23.1920.1057" timestamp="1578925276466" />
+    <state x="2188" y="422" key="svn.passwordDialog" timestamp="1578947888859">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state x="2188" y="422" key="svn.passwordDialog/1440.23.1920.1057/0.23.1440.840@1440.23.1920.1057" timestamp="1578947888859" />
+    <state x="2207" y="207" key="svn.repositoryBrowser" timestamp="1578947966137">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state x="2207" y="207" key="svn.repositoryBrowser/1440.23.1920.1057/0.23.1440.840@1440.23.1920.1057" timestamp="1578947966137" />
+    <state x="2218" y="422" key="svn.upgradeDialog" timestamp="1578947873492">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state x="2218" y="422" key="svn.upgradeDialog/1440.23.1920.1057/0.23.1440.840@1440.23.1920.1057" timestamp="1578947873492" />
+  </component>
+</project>
